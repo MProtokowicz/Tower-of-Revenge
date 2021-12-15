@@ -1,0 +1,5 @@
+C:\Things\Tower of Revenge\Tower of Revenge.exe
+C:\Things\Tower of Revenge\Tower of Revenge.dll
+C:\Things\Tower of Revenge\Tower of Revenge.deps.json
+C:\Things\Tower of Revenge\Tower of Revenge.runtimeconfig.json
+C:\Things\Tower of Revenge\Tower of Revenge.pdb

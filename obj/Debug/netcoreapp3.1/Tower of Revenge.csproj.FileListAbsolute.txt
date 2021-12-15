@@ -1,0 +1,13 @@
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\bin\Debug\netcoreapp3.1\Tower of Revenge.exe
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\bin\Debug\netcoreapp3.1\Tower of Revenge.deps.json
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\bin\Debug\netcoreapp3.1\Tower of Revenge.runtimeconfig.json
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\bin\Debug\netcoreapp3.1\Tower of Revenge.runtimeconfig.dev.json
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\bin\Debug\netcoreapp3.1\Tower of Revenge.dll
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\bin\Debug\netcoreapp3.1\Tower of Revenge.pdb
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.csprojAssemblyReference.cache
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.AssemblyInfoInputs.cache
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.AssemblyInfo.cs
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.csproj.CoreCompileInputs.cache
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.dll
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.pdb
+C:\Things\Projects\Tower of Revenge\Tower of Revenge\obj\Debug\netcoreapp3.1\Tower of Revenge.genruntimeconfig.cache
